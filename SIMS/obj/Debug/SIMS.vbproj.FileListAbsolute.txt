@@ -1,0 +1,2055 @@
+D:\VBProjects\SIMS\SIMS\bin\Debug\SIMS.exe.config
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.exe
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.xml
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.pdb
+D:\VBProjects\SIMS\SIMS\bin\Debug\SIMS.exe
+D:\VBProjects\SIMS\SIMS\bin\Debug\SIMS.pdb
+D:\VBProjects\SIMS\SIMS\bin\Debug\SIMS.xml
+D:\VBProjects\SIMS\SIMS\bin\Debug\MySqlBackup.dll
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.vbprojResolveAssemblyReference.cache
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmAreaTerritory.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmBOReturnD.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmBOReturnH.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmBrand.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmCategory.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedBOReturn.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedInvoice.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReceiving.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReturn.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockIn.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockOut.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockTransfer.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmListReceivingSupplier.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSearchBrand.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSearchSupplier.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSummaryCreditMemo.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSummaryDebitMemo.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSummaryGoodstockBO.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscOut.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscStockIn.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSummaryReceivingPerItem.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSummaryStockTransfer.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmBackup.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmChangePassword.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmCustomerD.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmCustomerH.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOD.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOH.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmItemD.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmItemH.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmLogin.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmMemoDebitH.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmOutletType.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalD.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalH.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmProvince.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceD.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceH.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnD.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnH.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmStockCard.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmStockInD.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmStockInH.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmReceivingD.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmReceivingH.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanH.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmStockOutD.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmStockOutH.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSupplier.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferH.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalUpdate.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalVariance.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmTypeOperation.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmUserAccessRole.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmUserMaintenance.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmWarehouse.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.MDIParent1.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferD.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmGenerateInventory.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmMemoCreditH.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARBalance.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARLedger.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmCustomerListing.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmDetailofOutsRcv.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmItemPriceList.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmListofCreditMemos.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmListofDebitMemos.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmListofPayment.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSearchArea.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSearchCategory.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSearchCustomer.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmListInvoicePerDay.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmListSalesBOReturn.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmListSalesInvoices.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSearchOutletType.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSearchProvince.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesman.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmListSalesReturn.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSearchTypeOper.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSearchWarehouse.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmRankingCustomer.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmRankingItems.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmRankingSalesman.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmUserLogs.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.Resources.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.vbproj.GenerateResource.Cache
+F:\SIMS\SIMS\bin\Debug\SIMS.exe.config
+F:\SIMS\SIMS\obj\Debug\SIMS.exe
+F:\SIMS\SIMS\obj\Debug\SIMS.xml
+F:\SIMS\SIMS\obj\Debug\SIMS.pdb
+F:\SIMS\SIMS\bin\Debug\SIMS.exe
+F:\SIMS\SIMS\bin\Debug\SIMS.pdb
+F:\SIMS\SIMS\bin\Debug\SIMS.xml
+F:\SIMS\SIMS\obj\Debug\SIMS.vbprojResolveAssemblyReference.cache
+F:\SIMS\SIMS\obj\Debug\SIMS.frmAreaTerritory.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmBOReturnD.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmBOReturnH.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmBrand.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmCategory.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedBOReturn.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedInvoice.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReceiving.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReturn.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockIn.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockOut.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockTransfer.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmListReceivingSupplier.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSearchBrand.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSearchItem.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSearchSupplier.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSummaryCreditMemo.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSummaryDebitMemo.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSummaryGoodstockBO.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscOut.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscStockIn.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSummaryReceivingPerItem.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSummaryStockTransfer.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmBackup.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmChangePassword.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmCustomerD.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmCustomerH.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOD.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOH.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmItemD.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmItemH.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmLogin.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmMemoDebitH.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmOutletType.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmPaymentModuleD.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmPaymentModuleH.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalD.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalH.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmProvince.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceD.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceH.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnD.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnH.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmStockCard.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmStockInD.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmStockInH.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmReceivingD.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmReceivingH.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanH.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmStockOutD.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmStockOutH.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSupplier.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferH.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalUpdate.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalVariance.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmTypeOperation.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmUserAccessRole.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmUserMaintenance.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmWarehouse.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.MDIParent1.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferD.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmGenerateInventory.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmMemoCreditH.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARBalance.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARLedger.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmCustomerListing.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmDetailofOutsRcv.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmItemPriceList.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmListofCreditMemos.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmListofDebitMemos.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmListofPayment.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSearchArea.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSearchCategory.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSearchCustomer.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmListInvoicePerDay.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmListSalesBOReturn.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmListSalesInvoices.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSearchOutletType.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSearchProvince.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesman.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmListSalesReturn.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSearchTypeOper.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmSearchWarehouse.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmRankingCustomer.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmRankingItems.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmRankingSalesman.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.frmUserLogs.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.Resources.resources
+F:\SIMS\SIMS\obj\Debug\SIMS.vbproj.GenerateResource.Cache
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\bin\Debug\SIMS.exe.config
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.exe
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.xml
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.pdb
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\bin\Debug\SIMS.exe
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\bin\Debug\SIMS.pdb
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\bin\Debug\SIMS.xml
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmAreaTerritory.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmBOReturnD.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmBOReturnH.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmBrand.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmCategory.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedBOReturn.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedInvoice.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReceiving.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReturn.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockIn.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockOut.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockTransfer.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmListReceivingSupplier.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSearchBrand.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSearchItem.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSearchSupplier.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSummaryCreditMemo.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSummaryDebitMemo.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSummaryGoodstockBO.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscOut.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscStockIn.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSummaryReceivingPerItem.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSummaryStockTransfer.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmBackup.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmChangePassword.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmCustomerD.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmCustomerH.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOD.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOH.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmItemD.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmItemH.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmLogin.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmMemoDebitH.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmOutletType.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalD.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalH.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmProvince.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceD.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceH.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnD.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnH.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmStockCard.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmStockInD.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmStockInH.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmReceivingD.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmReceivingH.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanH.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmStockOutD.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmStockOutH.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSupplier.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferH.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalUpdate.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalVariance.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmTypeOperation.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmUserAccessRole.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmUserMaintenance.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmWarehouse.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.MDIParent1.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferD.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmGenerateInventory.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmMemoCreditH.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARBalance.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARLedger.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmCustomerListing.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmDetailofOutsRcv.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmItemPriceList.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmListofCreditMemos.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmListofDebitMemos.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmListofPayment.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSearchArea.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSearchCategory.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSearchCustomer.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmListInvoicePerDay.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmListSalesBOReturn.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmListSalesInvoices.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSearchOutletType.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSearchProvince.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesman.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmListSalesReturn.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSearchTypeOper.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSearchWarehouse.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmRankingCustomer.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmRankingItems.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmRankingSalesman.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmUserLogs.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.Resources.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.vbproj.GenerateResource.Cache
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSearchItem.resources
+D:\VB Projects\SIMS - paya\SIMS\bin\Debug\SIMS.exe.config
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.exe
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.xml
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.pdb
+D:\VB Projects\SIMS - paya\SIMS\bin\Debug\SIMS.exe
+D:\VB Projects\SIMS - paya\SIMS\bin\Debug\SIMS.pdb
+D:\VB Projects\SIMS - paya\SIMS\bin\Debug\SIMS.xml
+D:\VB Projects\SIMS - paya\SIMS\bin\Debug\MySqlBackup.dll
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.vbprojResolveAssemblyReference.cache
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmAreaTerritory.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmBOReturnD.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmBOReturnH.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmBrand.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmCategory.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmListDeletedBOReturn.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmListDeletedInvoice.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmListDeletedReceiving.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmListDeletedReturn.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmListDeletedStockIn.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmListDeletedStockOut.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmListDeletedStockTransfer.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmListReceivingSupplier.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSearchBrand.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSearchItem.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSearchSupplier.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSummaryCreditMemo.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSummaryDebitMemo.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSummaryGoodstockBO.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSummaryMiscOut.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSummaryMiscStockIn.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSummaryReceivingPerItem.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSummaryStockTransfer.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmBackup.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmChangePassword.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmCustomerD.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmCustomerH.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmGStoBOD.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmGStoBOH.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmItemD.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmItemH.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmLogin.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmMemoDebitH.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmOutletType.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmPaymentModuleD.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmPaymentModuleH.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmPhysicalD.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmPhysicalH.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmProvince.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSalesInvoiceD.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSalesInvoiceH.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSalesReturnD.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSalesReturnH.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmStockCard.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmStockInD.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmStockInH.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmReceivingD.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmReceivingH.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSalesmanH.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmStockOutD.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmStockOutH.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSupplier.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmStockTransferH.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmPhysicalUpdate.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmPhysicalVariance.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmTypeOperation.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmUserAccessRole.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmUserMaintenance.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmWarehouse.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.MDIParent1.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmStockTransferD.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmGenerateInventory.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmMemoCreditH.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmCustomerARBalance.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmCustomerARLedger.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmCustomerListing.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmDetailofOutsRcv.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmItemPriceList.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmListofCreditMemos.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmListofDebitMemos.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmListofPayment.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSearchArea.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSearchCategory.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSearchCustomer.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmListInvoicePerDay.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmListSalesBOReturn.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmListSalesInvoices.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSearchOutletType.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSearchProvince.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSearchSalesman.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmListSalesReturn.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSearchTypeOper.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmSearchWarehouse.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmRankingCustomer.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmRankingItems.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmRankingSalesman.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.frmUserLogs.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.Resources.resources
+D:\VB Projects\SIMS - paya\SIMS\obj\Debug\SIMS.vbproj.GenerateResource.Cache
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmReport.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSupplierCM.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmSupplierDM.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollD.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollH.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierH.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierD.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierH.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierD.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierH.resources
+D:\VBProjects\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierD.resources
+C:\Users\User\Desktop\SIMS\SIMS\bin\Debug\SIMS.exe.config
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.exe
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.xml
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.pdb
+C:\Users\User\Desktop\SIMS\SIMS\bin\Debug\SIMS.exe
+C:\Users\User\Desktop\SIMS\SIMS\bin\Debug\SIMS.pdb
+C:\Users\User\Desktop\SIMS\SIMS\bin\Debug\SIMS.xml
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmAreaTerritory.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierD.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierH.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmBrand.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCategory.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierH.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierD.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSupplierCM.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSupplierDM.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedBOReturn.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedInvoice.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReceiving.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReturn.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockIn.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockOut.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockTransfer.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierD.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierH.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListReceivingSupplier.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmReport.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchBrand.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchItem.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchSupplier.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSummaryCreditMemo.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSummaryDebitMemo.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSummaryGoodstockBO.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscOut.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscStockIn.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSummaryReceivingPerItem.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSummaryStockTransfer.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmBackup.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmChangePassword.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCustomerD.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCustomerH.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOD.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOH.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmItemD.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmItemH.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmLogin.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmMemoDebitH.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmOutletType.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollD.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollH.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalD.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalH.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmProvince.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceD.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceH.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnD.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnH.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmStockCard.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmStockInD.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmStockInH.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmReceivingD.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmReceivingH.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanH.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmStockOutD.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmStockOutH.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSupplier.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferH.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalUpdate.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalVariance.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmTypeOperation.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmUserAccessRole.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmUserMaintenance.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmWarehouse.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.MDIParent1.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferD.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmGenerateInventory.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARBalance.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARLedger.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCustomerListing.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmDetailofOutsRcv.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmItemPriceList.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListofCreditMemos.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListofDebitMemos.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchArea.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchCategory.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchCustomer.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListInvoicePerDay.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListSalesBOReturn.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListSalesInvoices.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchOutletType.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchProvince.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListSalesReturn.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchTypeOper.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchWarehouse.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmRankingCustomer.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmRankingItems.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmRankingSalesman.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmUserLogs.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.Resources.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.vbprojResolveAssemblyReference.cache
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierD.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierH.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierH.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierD.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSupplierCM.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmSupplierDM.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierD.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierH.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmReport.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollD.resources
+D:\PROJECTS\Master Kokoi\Toping\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollH.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\bin\Debug\SIMS.exe.config
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.exe
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.xml
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.pdb
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\bin\Debug\SIMS.exe
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\bin\Debug\SIMS.pdb
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\bin\Debug\SIMS.xml
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmAreaTerritory.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierD.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierH.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmBrand.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmCategory.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierH.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierD.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSupplierCM.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSupplierDM.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedBOReturn.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedInvoice.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReceiving.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReturn.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockIn.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockOut.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockTransfer.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierD.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierH.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmListReceivingSupplier.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmReport.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSearchBrand.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSearchItem.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSearchSupplier.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSummaryCreditMemo.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSummaryDebitMemo.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSummaryGoodstockBO.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscOut.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscStockIn.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSummaryReceivingPerItem.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSummaryStockTransfer.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmBackup.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmChangePassword.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmCustomerD.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmCustomerH.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOD.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOH.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmItemD.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmItemH.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmLogin.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmMemoDebitH.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmOutletType.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollD.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollH.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalD.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalH.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmProvince.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceD.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceH.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnD.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnH.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmStockCard.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmStockInD.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmStockInH.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmReceivingD.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmReceivingH.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanH.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmStockOutD.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmStockOutH.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSupplier.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferH.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalUpdate.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalVariance.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmTypeOperation.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmUserAccessRole.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmUserMaintenance.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmWarehouse.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.MDIParent1.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferD.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmGenerateInventory.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARBalance.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARLedger.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmCustomerListing.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmDetailofOutsRcv.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmItemPriceList.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmListofCreditMemos.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmListofDebitMemos.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSearchArea.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSearchCategory.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSearchCustomer.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmListInvoicePerDay.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmListSalesBOReturn.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmListSalesInvoices.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSearchOutletType.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSearchProvince.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmListSalesReturn.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSearchTypeOper.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSearchWarehouse.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmRankingCustomer.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmRankingItems.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmRankingSalesman.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmUserLogs.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.Resources.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.vbproj.GenerateResource.Cache
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanList.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanRet.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmBackupRestore.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanInv.resources
+D:\VB Projects\SIMS - Copy9\SIMS\bin\Debug\SIMS.exe.config
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.exe
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.xml
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.pdb
+D:\VB Projects\SIMS - Copy9\SIMS\bin\Debug\SIMS.exe
+D:\VB Projects\SIMS - Copy9\SIMS\bin\Debug\SIMS.pdb
+D:\VB Projects\SIMS - Copy9\SIMS\bin\Debug\SIMS.xml
+D:\VB Projects\SIMS - Copy9\SIMS\bin\Debug\MySqlBackup.dll
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.vbprojResolveAssemblyReference.cache
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSalesmanList.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmAreaTerritory.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmBOreturnSupplierD.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmBOreturnSupplierH.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmBrand.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmCategory.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmPaymentSupplierH.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmPaymentSupplierD.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSupplierCM.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSupplierDM.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmListDeletedBOReturn.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmListDeletedInvoice.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmListDeletedReceiving.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmListDeletedReturn.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmListDeletedStockIn.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmListDeletedStockOut.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmListDeletedStockTransfer.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmGSreturnSupplierD.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmGSreturnSupplierH.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmListReceivingSupplier.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmReport.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSearchSalesmanRet.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSearchBrand.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSearchItem.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSearchSupplier.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSummaryCreditMemo.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSummaryDebitMemo.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSummaryGoodstockBO.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSummaryMiscOut.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSummaryMiscStockIn.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSummaryReceivingPerItem.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSummaryStockTransfer.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmBackup.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmBackupRestore.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmChangePassword.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmCustomerD.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmCustomerH.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmGStoBOD.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmGStoBOH.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmItemD.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmItemH.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmLogin.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmMemoDebitH.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmOutletType.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmBookingARCollD.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmBookingARCollH.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmPhysicalD.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmPhysicalH.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmProvince.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSalesInvoiceD.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSalesInvoiceH.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSalesReturnD.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSalesReturnH.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmStockCard.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmStockInD.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmStockInH.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmReceivingD.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmReceivingH.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSalesmanH.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmStockOutD.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmStockOutH.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSupplier.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmStockTransferH.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmPhysicalUpdate.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmPhysicalVariance.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmTypeOperation.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmUserAccessRole.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmUserMaintenance.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmWarehouse.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.MDIParent1.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmStockTransferD.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmGenerateInventory.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmMemoCredit.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmCustomerARBalance.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmCustomerARLedger.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmCustomerListing.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmDetailofOutsRcv.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmItemPriceList.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmListofCreditMemos.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmListofDebitMemos.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmListofPayment.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSearchArea.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSearchCategory.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSearchCustomer.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmListInvoicePerDay.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmListSalesBOReturn.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmListSalesInvoices.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSearchOutletType.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSearchProvince.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSearchSalesmanInv.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmListSalesReturn.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSearchTypeOper.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSearchWarehouse.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmRankingCustomer.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmRankingItems.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmRankingSalesman.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmUserLogs.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.Resources.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.vbproj.GenerateResource.Cache
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSalesBOReturnD.resources
+D:\VB Projects\SIMS - Copy9\SIMS\obj\Debug\SIMS.frmSalesBOReturnH.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanList.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnD.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnH.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanRet.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmBackupRestore.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmMemoCredit.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanInv.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\bin\Debug\SIMS.exe.config
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.exe
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.xml
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.pdb
+D:\vb.net\SIMS (2)\SIMS\SIMS\bin\Debug\SIMS.exe
+D:\vb.net\SIMS (2)\SIMS\SIMS\bin\Debug\SIMS.pdb
+D:\vb.net\SIMS (2)\SIMS\SIMS\bin\Debug\SIMS.xml
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmCollSalesman.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmCollSearch.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollD.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollH.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmItemHistory.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanList.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmAreaTerritory.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnD.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnH.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierD.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierH.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmBrand.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmCategory.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierH.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierD.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSupplierCM.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSupplierDM.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedBOReturn.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedInvoice.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReceiving.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReturn.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockIn.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockOut.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockTransfer.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierD.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierH.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListReceivingSupplier.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmReport.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchBookingAR.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanRet.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchBrand.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchItem.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchSupplier.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSummaryCreditMemo.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSummaryDebitMemo.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSummaryGoodstockBO.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscOut.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscStockIn.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSummaryReceivingPerItem.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSummaryStockTransfer.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmBackup.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmBackupRestore.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmChangePassword.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmCustomerD.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmCustomerH.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOD.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOH.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmItemD.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmItemH.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmLogin.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmMemoDebitH.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmOutletType.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollD.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollH.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalD.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalH.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmProvince.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceD.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceH.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnD.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnH.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmStockCard.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmStockInD.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmStockInH.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmReceivingD.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmReceivingH.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanH.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmStockOutD.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmStockOutH.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSupplier.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferH.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalUpdate.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalVariance.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmTypeOperation.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmUserAccessRole.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmUserMaintenance.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmWarehouse.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.MDIParent1.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferD.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmGenerateInventory.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmMemoCredit.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARBalance.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARLedger.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmCustomerListing.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmDetailofOutsRcv.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmItemPriceList.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListofCreditMemos.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListofDebitMemos.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchArea.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchCategory.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchCustomer.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListInvoicePerDay.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListSalesBOReturn.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListSalesInvoices.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchOutletType.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchProvince.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanInv.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListSalesReturn.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchTypeOper.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchWarehouse.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmRankingCustomer.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmRankingItems.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmRankingSalesman.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmUserLogs.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.Resources.resources
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.vbproj.GenerateResource.Cache
+D:\VB Projects\SIMS (2)\SIMS\SIMS\bin\Debug\SIMS.exe.config
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.exe
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.xml
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.pdb
+D:\VB Projects\SIMS (2)\SIMS\SIMS\bin\Debug\SIMS.exe
+D:\VB Projects\SIMS (2)\SIMS\SIMS\bin\Debug\SIMS.pdb
+D:\VB Projects\SIMS (2)\SIMS\SIMS\bin\Debug\SIMS.xml
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.vbprojResolveAssemblyReference.cache
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmCollSalesman.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmCollSearch.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollD.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollH.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmItemHistory.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanList.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmAreaTerritory.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnD.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnH.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierD.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierH.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmBrand.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmCategory.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierH.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierD.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSupplierCM.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSupplierDM.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedBOReturn.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedInvoice.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReceiving.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReturn.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockIn.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockOut.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockTransfer.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierD.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierH.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListReceivingSupplier.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmReport.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchBookingAR.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanRet.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchBrand.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchItem.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchSupplier.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSummaryCreditMemo.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSummaryDebitMemo.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSummaryGoodstockBO.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscOut.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscStockIn.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSummaryReceivingPerItem.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSummaryStockTransfer.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmBackup.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmBackupRestore.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmChangePassword.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmCustomerD.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmCustomerH.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOD.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOH.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmItemD.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmItemH.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmLogin.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmMemoDebitH.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmOutletType.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollD.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollH.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalD.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalH.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmProvince.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceD.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceH.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnD.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnH.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmStockCard.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmStockInD.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmStockInH.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmReceivingD.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmReceivingH.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanH.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmStockOutD.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmStockOutH.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSupplier.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferH.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalUpdate.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalVariance.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmTypeOperation.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmUserAccessRole.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmUserMaintenance.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmWarehouse.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.MDIParent1.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferD.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmGenerateInventory.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmMemoCredit.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARBalance.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARLedger.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmCustomerListing.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmDetailofOutsRcv.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmItemPriceList.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListofCreditMemos.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListofDebitMemos.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListofPayment.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchArea.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchCategory.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchCustomer.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListInvoicePerDay.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListSalesBOReturn.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListSalesInvoices.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchOutletType.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchProvince.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanInv.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListSalesReturn.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchTypeOper.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmSearchWarehouse.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmRankingCustomer.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmRankingItems.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmRankingSalesman.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmUserLogs.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.Resources.resources
+D:\VB Projects\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.vbproj.GenerateResource.Cache
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.vbprojResolveAssemblyReference.cache
+D:\vb.net\SIMS (2)\SIMS\SIMS\obj\Debug\SIMS.frmListofExpresColl.resources
+D:\vb.net\SIMS\SIMS\SIMS\bin\Debug\SIMS.exe.config
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.exe
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.xml
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.pdb
+D:\vb.net\SIMS\SIMS\SIMS\bin\Debug\SIMS.exe
+D:\vb.net\SIMS\SIMS\SIMS\bin\Debug\SIMS.pdb
+D:\vb.net\SIMS\SIMS\SIMS\bin\Debug\SIMS.xml
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCollSalesman.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCollSearch.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollD.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollH.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmItemHistory.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanList.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmAreaTerritory.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnD.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnH.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierD.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierH.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmBrand.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCategory.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierH.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierD.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSupplierCM.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSupplierDM.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedBOReturn.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedInvoice.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReceiving.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReturn.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockIn.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockOut.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockTransfer.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierD.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierH.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListReceivingSupplier.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmReport.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchBookingAR.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanRet.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchBrand.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchItem.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchSupplier.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSummaryCreditMemo.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSummaryDebitMemo.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSummaryGoodstockBO.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscOut.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscStockIn.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSummaryReceivingPerItem.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSummaryStockTransfer.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmBackup.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmBackupRestore.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmChangePassword.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCustomerD.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCustomerH.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOD.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOH.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmItemD.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmItemH.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmLogin.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmMemoDebitH.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmOutletType.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollD.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollH.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalD.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalH.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmProvince.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceD.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceH.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnD.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnH.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmStockCard.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmStockInD.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmStockInH.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmReceivingD.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmReceivingH.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanH.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmStockOutD.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmStockOutH.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSupplier.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferH.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalUpdate.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalVariance.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmTypeOperation.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmUserAccessRole.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmUserMaintenance.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmWarehouse.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.MDIParent1.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferD.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmGenerateInventory.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmMemoCredit.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARBalance.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARLedger.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCustomerListing.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmItemPriceList.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListofCreditMemos.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListofDebitMemos.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListofExpresColl.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchArea.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchCategory.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchCustomer.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListInvoicePerDay.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListSalesBOReturn.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListSalesInvoices.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchOutletType.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchProvince.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanInv.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListSalesReturn.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchTypeOper.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchWarehouse.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmRankingCustomer.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmRankingItems.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmRankingSalesman.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmUserLogs.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.Resources.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.vbproj.GenerateResource.Cache
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\bin\Debug\SIMS.exe.config
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.exe
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.xml
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.pdb
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\bin\Debug\SIMS.exe
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\bin\Debug\SIMS.pdb
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\bin\Debug\SIMS.xml
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.vbprojResolveAssemblyReference.cache
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCollSalesman.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCollSearch.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollD.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollH.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmItemHistory.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanList.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmAreaTerritory.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnD.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnH.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierD.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierH.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmBrand.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCategory.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierH.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierD.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSupplierCM.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSupplierDM.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedBOReturn.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedInvoice.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReceiving.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReturn.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockIn.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockOut.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockTransfer.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierD.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierH.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListofCashReceive.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListReceivingSupplier.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmReport.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchBookingAR.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanRet.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchBrand.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchItem.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchSupplier.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSummaryCreditMemo.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSummaryDebitMemo.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSummaryGoodstockBO.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscOut.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscStockIn.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSummaryReceivingPerItem.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSummaryStockTransfer.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmBackup.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmBackupRestore.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmChangePassword.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCustomerD.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCustomerH.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOD.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOH.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmItemD.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmItemH.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmLogin.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmMemoDebitH.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmOutletType.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollD.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollH.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalD.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalH.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmProvince.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceD.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceH.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnD.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnH.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmStockCard.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmStockInD.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmStockInH.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmReceivingD.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmReceivingH.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanH.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmStockOutD.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmStockOutH.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSupplier.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferH.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalUpdate.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalVariance.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmTypeOperation.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmUserAccessRole.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmUserMaintenance.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmWarehouse.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.MDIParent1.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferD.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmGenerateInventory.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmMemoCredit.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARBalance.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARLedger.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCustomerListing.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmDetailofOutsRcv.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmItemPriceList.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListofCreditMemos.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListofDebitMemos.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListofExpresColl.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchArea.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchCategory.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchCustomer.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListInvoicePerDay.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListSalesBOReturn.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListSalesInvoices.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchOutletType.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchProvince.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanInv.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListSalesReturn.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchTypeOper.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchWarehouse.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmRankingCustomer.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmRankingItems.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmRankingSalesman.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmUserLogs.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.Resources.resources
+C:\Users\Toping Coy\Desktop\SIMS\SIMS\obj\Debug\SIMS.vbproj.GenerateResource.Cache
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListofCashReceive.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmlistofCheckReceive.resources
+C:\Users\admin\Desktop\SIMS\SIMS\bin\Debug\SIMS.exe.config
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.exe
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.xml
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.pdb
+C:\Users\admin\Desktop\SIMS\SIMS\bin\Debug\SIMS.exe
+C:\Users\admin\Desktop\SIMS\SIMS\bin\Debug\SIMS.pdb
+C:\Users\admin\Desktop\SIMS\SIMS\bin\Debug\SIMS.xml
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCollSalesman.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCollSearch.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollD.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollH.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmItemHistory.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanList.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmAreaTerritory.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnD.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnH.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierD.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierH.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmBrand.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCategory.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierH.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierD.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSupplierCM.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSupplierDM.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedBOReturn.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedInvoice.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReceiving.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReturn.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockIn.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockOut.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockTransfer.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierD.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierH.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListofCashReceive.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmlistofCheckReceive.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListReceivingSupplier.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmReport.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchBookingAR.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanBO.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanRet.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchBrand.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchItem.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchSupplier.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSummaryCreditMemo.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSummaryDebitMemo.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSummaryGoodstockBO.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscOut.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscStockIn.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSummaryReceivingPerItem.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSummaryStockTransfer.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmBackup.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmBackupRestore.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmChangePassword.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCustomerD.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCustomerH.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOD.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOH.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmItemD.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmItemH.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmLogin.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmMemoDebitH.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmOutletType.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollD.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollH.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalD.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalH.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmProvince.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceD.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceH.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnD.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnH.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmStockCard.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmStockInD.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmStockInH.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmReceivingD.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmReceivingH.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanH.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmStockOutD.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmStockOutH.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSupplier.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferH.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalUpdate.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalVariance.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmTypeOperation.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmUserAccessRole.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmUserMaintenance.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmWarehouse.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.MDIParent1.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferD.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmGenerateInventory.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmMemoCredit.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARBalance.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARLedger.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCustomerListing.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmDetailofOutsRcv.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmItemPriceList.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListofCreditMemos.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListofDebitMemos.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListofExpresColl.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchArea.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchCategory.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchCustomer.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListInvoicePerDay.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListSalesBOReturn.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListSalesInvoices.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchOutletType.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchProvince.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanInv.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListSalesReturn.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchTypeOper.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchWarehouse.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmRankingCustomer.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmRankingItems.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmRankingSalesman.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmUserLogs.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.Resources.resources
+C:\Users\admin\Desktop\SIMS\SIMS\obj\Debug\SIMS.vbproj.GenerateResource.Cache
+D:\VB Projects\SIMS\SIMS\bin\Debug\SIMS.exe.config
+D:\VB Projects\SIMS\SIMS\bin\Debug\SIMS.exe
+D:\VB Projects\SIMS\SIMS\bin\Debug\SIMS.pdb
+D:\VB Projects\SIMS\SIMS\bin\Debug\SIMS.xml
+D:\VB Projects\SIMS\SIMS\bin\Debug\MySqlBackup.dll
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmCollSalesman.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmCollSearch.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollD.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollH.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmItemHistory.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanList.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmAreaTerritory.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnD.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnH.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierD.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierH.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmBrand.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmCategory.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierH.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierD.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSupplierCM.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSupplierDM.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedBOReturn.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedInvoice.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReceiving.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReturn.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockIn.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockOut.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockTransfer.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierD.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierH.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmListofCashReceive.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmlistofCheckReceive.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmListReceivingSupplier.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmReport.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSearchBookingAR.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanBO.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanRet.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSearchBrand.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSearchItem.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSearchSupplier.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSummaryCreditMemo.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSummaryDebitMemo.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSummaryGoodstockBO.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscOut.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscStockIn.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSummaryReceivingPerItem.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSummaryStockTransfer.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmBackup.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmBackupRestore.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmChangePassword.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmCustomerD.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmCustomerH.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOD.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOH.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmItemD.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmItemH.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmLogin.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmMemoDebitH.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmOutletType.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollD.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollH.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalD.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalH.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmProvince.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceD.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceH.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnD.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnH.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmStockCard.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmStockInD.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmStockInH.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmReceivingD.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmReceivingH.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanH.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmStockOutD.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmStockOutH.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSupplier.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferH.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalUpdate.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalVariance.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmTypeOperation.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmUserAccessRole.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmUserMaintenance.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmWarehouse.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.MDIParent1.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferD.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmGenerateInventory.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmMemoCredit.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARBalance.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARLedger.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmCustomerListing.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmItemPriceList.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmListofCreditMemos.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmListofDebitMemos.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmListofExpresColl.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSearchArea.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSearchCategory.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSearchCustomer.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmListInvoicePerDay.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmListSalesBOReturn.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmListSalesInvoices.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSearchOutletType.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSearchProvince.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanInv.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmListSalesReturn.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSearchTypeOper.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSearchWarehouse.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmRankingCustomer.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmRankingItems.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmRankingSalesman.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmUserLogs.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.Resources.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.vbproj.GenerateResource.Cache
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.exe
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.xml
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.pdb
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.vbprojResolveAssemblyReference.cache
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmCollSalesman.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmCollSearch.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollD.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollH.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmItemHistory.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmListofCashReceive.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmlistofCheckReceive.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSearchBookingAR.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanBO.resources
+D:\PROJECTS\SIMS 2021\SIMS\SIMS\obj\Debug\SIMS.frmListofExpresColl.resources
+D:\vb.net\SIMS\SIMS\bin\Debug\SIMS.exe.config
+D:\vb.net\SIMS\SIMS\bin\Debug\SIMS.exe
+D:\vb.net\SIMS\SIMS\bin\Debug\SIMS.pdb
+D:\vb.net\SIMS\SIMS\bin\Debug\SIMS.xml
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmCollSalesman.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmCollSearch.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollD.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollH.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmItemHistory.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanList.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmAreaTerritory.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnD.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnH.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierD.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierH.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmBrand.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmCategory.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierH.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierD.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSupplierCM.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSupplierDM.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedBOReturn.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedInvoice.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReceiving.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReturn.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockIn.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockOut.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockTransfer.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierD.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierH.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmListofCashReceive.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmlistofCheckReceive.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmListReceivingSupplier.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmReport.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSearchBookingAR.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanBO.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanRet.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSearchBrand.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSearchItem.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSearchSupplier.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSummaryCreditMemo.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSummaryDebitMemo.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSummaryGoodstockBO.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscOut.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscStockIn.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSummaryReceivingPerItem.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSummaryStockTransfer.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmBackup.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmBackupRestore.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmChangePassword.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmCustomerD.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmCustomerH.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOD.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOH.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmItemD.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmItemH.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmLogin.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmMemoDebitH.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmOutletType.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollD.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollH.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalD.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalH.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmProvince.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceD.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceH.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnD.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnH.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmStockCard.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmStockInD.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmStockInH.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmReceivingD.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmReceivingH.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanH.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmStockOutD.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmStockOutH.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSupplier.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferH.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalUpdate.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalVariance.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmTypeOperation.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmUserAccessRole.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmUserMaintenance.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmWarehouse.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.MDIParent1.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferD.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmGenerateInventory.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmMemoCredit.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARBalance.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARLedger.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmCustomerListing.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmDetailofOutsRcv.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmItemPriceList.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmListofCreditMemos.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmListofDebitMemos.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmListofExpresColl.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSearchArea.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSearchCategory.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSearchCustomer.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmListInvoicePerDay.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmListSalesBOReturn.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmListSalesInvoices.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSearchOutletType.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSearchProvince.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanInv.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmListSalesReturn.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSearchTypeOper.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmSearchWarehouse.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmRankingCustomer.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmRankingItems.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmRankingSalesman.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.frmUserLogs.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.Resources.resources
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.vbproj.GenerateResource.Cache
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.exe
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.xml
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.pdb
+D:\VB Projects\SIMS\SIMS\SIMS\bin\Debug\SIMS.exe.config
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.exe
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.xml
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.pdb
+D:\VB Projects\SIMS\SIMS\SIMS\bin\Debug\SIMS.exe
+D:\VB Projects\SIMS\SIMS\SIMS\bin\Debug\SIMS.pdb
+D:\VB Projects\SIMS\SIMS\SIMS\bin\Debug\SIMS.xml
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.vbprojResolveAssemblyReference.cache
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCollSalesman.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCollSearch.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollD.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollH.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmItemHistory.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanList.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmAreaTerritory.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnD.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnH.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierD.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierH.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmBrand.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCategory.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierH.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierD.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSupplierCM.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSupplierDM.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedBOReturn.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedInvoice.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReceiving.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReturn.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockIn.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockOut.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockTransfer.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierD.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierH.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListofCashReceive.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmlistofCheckReceive.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListReceivingSupplier.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmReport.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchBookingAR.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanBO.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanRet.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchBrand.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchItem.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchSupplier.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSummaryCreditMemo.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSummaryDebitMemo.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSummaryGoodstockBO.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscOut.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscStockIn.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSummaryReceivingPerItem.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSummaryStockTransfer.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmBackup.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmBackupRestore.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmChangePassword.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCustomerD.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCustomerH.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOD.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOH.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmItemD.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmItemH.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmLogin.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmMemoDebitH.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmOutletType.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollD.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollH.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalD.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalH.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmProvince.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceD.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceH.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnD.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnH.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmStockCard.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmStockInD.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmStockInH.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmReceivingD.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmReceivingH.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanH.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmStockOutD.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmStockOutH.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSupplier.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferH.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalUpdate.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalVariance.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmTypeOperation.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmUserAccessRole.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmUserMaintenance.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmWarehouse.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.MDIParent1.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferD.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmGenerateInventory.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmMemoCredit.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARBalance.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARLedger.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCustomerListing.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmDetailofOutsRcv.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmItemPriceList.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListofCreditMemos.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListofDebitMemos.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListofExpresColl.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchArea.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchCategory.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchCustomer.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListInvoicePerDay.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListSalesBOReturn.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListSalesInvoices.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchOutletType.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchProvince.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanInv.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListSalesReturn.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchTypeOper.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchWarehouse.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmRankingCustomer.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmRankingItems.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmRankingSalesman.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmUserLogs.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.Resources.resources
+D:\VB Projects\SIMS\SIMS\SIMS\obj\Debug\SIMS.vbproj.GenerateResource.Cache
+D:\vb.net\SIMS\SIMS\obj\Debug\SIMS.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCollSalesman.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmCollSearch.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollD.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollH.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmItemHistory.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnD.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnH.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListofCashReceive.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmlistofCheckReceive.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchBookingAR.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanBO.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmMemoCredit.resources
+C:\Users\User\Desktop\SIMS\SIMS\obj\Debug\SIMS.frmListofExpresColl.resources
+D:\VB Project\SIMS\SIMS\bin\Debug\SIMS.exe.config
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.exe
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.xml
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.pdb
+D:\VB Project\SIMS\SIMS\bin\Debug\SIMS.exe
+D:\VB Project\SIMS\SIMS\bin\Debug\SIMS.pdb
+D:\VB Project\SIMS\SIMS\bin\Debug\SIMS.xml
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.vbprojResolveAssemblyReference.cache
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmCollSalesman.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmCollSearch.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollD.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollH.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmItemHistory.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanList.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmAreaTerritory.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnD.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnH.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierD.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierH.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmBrand.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmCategory.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierH.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierD.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSupplierCM.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSupplierDM.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedBOReturn.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedInvoice.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReceiving.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReturn.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockIn.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockOut.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockTransfer.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierD.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierH.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmListofCashReceive.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmlistofCheckReceive.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmListReceivingSupplier.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmReport.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSearchBookingAR.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanBO.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanRet.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSearchBrand.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSearchItem.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSearchSupplier.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSummaryCreditMemo.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSummaryDebitMemo.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSummaryGoodstockBO.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscOut.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscStockIn.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSummaryReceivingPerItem.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSummaryStockTransfer.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmBackup.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmBackupRestore.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmChangePassword.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmCustomerD.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmCustomerH.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOD.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOH.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmItemD.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmItemH.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmLogin.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmMemoDebitH.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmOutletType.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollD.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollH.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalD.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalH.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmProvince.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceD.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceH.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnD.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnH.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmStockCard.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmStockInD.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmStockInH.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmReceivingD.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmReceivingH.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanH.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmStockOutD.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmStockOutH.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSupplier.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferH.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalUpdate.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalVariance.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmTypeOperation.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmUserAccessRole.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmUserMaintenance.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmWarehouse.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.MDIParent1.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferD.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmGenerateInventory.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmMemoCredit.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARBalance.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARLedger.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmCustomerListing.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmItemPriceList.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmListofCreditMemos.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmListofDebitMemos.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmListofExpresColl.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSearchArea.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSearchCategory.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSearchCustomer.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmListInvoicePerDay.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmListSalesBOReturn.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmListSalesInvoices.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSearchOutletType.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSearchProvince.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanInv.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmListSalesReturn.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSearchTypeOper.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmSearchWarehouse.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmRankingCustomer.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmRankingItems.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmRankingSalesman.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmUserLogs.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.Resources.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.vbproj.GenerateResource.Cache
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmDetailofOutsReceivables.resources
+D:\VB Project\SIMS\SIMS\obj\Debug\SIMS.frmDetailofOutsReceivables.resources
+D:\VB Project\SIMS\SIMS\bin\Debug\MySqlBackup.dll
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\bin\Debug\SIMS.exe.config
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.exe
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.xml
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.pdb
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\bin\Debug\SIMS.exe
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\bin\Debug\SIMS.pdb
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\bin\Debug\SIMS.xml
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.vbprojResolveAssemblyReference.cache
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmCollSalesman.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmCollSearch.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollD.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollH.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmItemHistory.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanList.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmAreaTerritory.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnD.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnH.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierD.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierH.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmBrand.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmCategory.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierH.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierD.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSupplierCM.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSupplierDM.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedBOReturn.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedInvoice.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReceiving.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReturn.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockIn.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockOut.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockTransfer.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierD.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierH.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmListofCashReceive.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmlistofCheckReceive.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmListReceivingSupplier.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmReport.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSearchBookingAR.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanBO.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanRet.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSearchBrand.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSearchItem.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSearchSupplier.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSummaryCreditMemo.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSummaryDebitMemo.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSummaryGoodstockBO.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscOut.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscStockIn.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSummaryReceivingPerItem.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSummaryStockTransfer.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmBackup.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmBackupRestore.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmChangePassword.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmCustomerD.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmCustomerH.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOD.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOH.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmItemD.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmItemH.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmLogin.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmMemoDebitH.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmOutletType.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollD.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollH.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalD.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalH.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmProvince.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceD.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceH.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnD.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnH.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmStockCard.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmStockInD.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmStockInH.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmReceivingD.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmReceivingH.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanH.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmStockOutD.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmStockOutH.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSupplier.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferH.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalUpdate.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalVariance.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmTypeOperation.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmUserAccessRole.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmUserMaintenance.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmWarehouse.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.MDIParent1.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferD.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmGenerateInventory.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmMemoCredit.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARBalance.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARLedger.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmCustomerListing.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmDetailofOutsReceivables.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmItemPriceList.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmListofCreditMemos.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmListofDebitMemos.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmListofExpresColl.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSearchArea.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSearchCategory.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSearchCustomer.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmListInvoicePerDay.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmListSalesBOReturn.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmListSalesInvoices.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSearchOutletType.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSearchProvince.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanInv.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmListSalesReturn.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSearchTypeOper.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmSearchWarehouse.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmRankingCustomer.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmRankingItems.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmRankingSalesman.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.frmUserLogs.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.Resources.resources
+D:\PROJECTS\SIM2 2022\SIMS\SIMS\obj\Debug\SIMS.vbproj.GenerateResource.Cache
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanBO.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmDetailofOutsReceivables.resources
+D:\vb.net\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmprogress.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmprogress.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmListofSalesInvoicesDetailed.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\bin\Debug\SIMS.exe.config
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.exe
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.xml
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.pdb
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\bin\Debug\SIMS.exe
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\bin\Debug\SIMS.pdb
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\bin\Debug\SIMS.xml
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCollSalesman.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCollSearch.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollD.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmExpressCollH.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmItemHistory.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanList.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmAreaTerritory.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnD.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesBOReturnH.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierD.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmBOreturnSupplierH.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmBrand.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCategory.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierH.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmPaymentSupplierD.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSupplierCM.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSupplierDM.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmprogress.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedBOReturn.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedInvoice.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReceiving.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedReturn.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockIn.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockOut.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListDeletedStockTransfer.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierD.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmGSreturnSupplierH.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListofCashReceive.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmlistofCheckReceive.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListofSalesInvoicesDetailed.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListReceivingSupplier.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmReport.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchBookingAR.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanBO.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanRet.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchBrand.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchItem.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchSupplier.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSummaryCreditMemo.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSummaryDebitMemo.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSummaryGoodstockBO.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscOut.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSummaryMiscStockIn.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSummaryReceivingPerItem.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSummaryStockTransfer.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmBackup.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmBackupRestore.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmChangePassword.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCustomerD.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCustomerH.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOD.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmGStoBOH.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmItemD.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmItemH.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmLogin.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmMemoDebitH.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmOutletType.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollD.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmBookingARCollH.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalD.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalH.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmProvince.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceD.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesInvoiceH.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnD.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesReturnH.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmStockCard.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmStockInD.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmStockInH.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmReceivingD.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmReceivingH.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSalesmanH.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmStockOutD.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmStockOutH.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSupplier.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferH.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalUpdate.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmPhysicalVariance.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmTypeOperation.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmUserAccessRole.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmUserMaintenance.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmWarehouse.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.MDIParent1.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmStockTransferD.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmGenerateInventory.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmMemoCredit.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARBalance.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCustomerARLedger.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmCustomerListing.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmDetailofOutsReceivables.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmItemPriceList.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListofCreditMemos.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListofDebitMemos.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListofExpresColl.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchArea.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchCategory.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchCustomer.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListInvoicePerDay.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListSalesBOReturn.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListSalesInvoices.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchOutletType.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchProvince.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanInv.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmListSalesReturn.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchTypeOper.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmSearchWarehouse.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmRankingCustomer.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmRankingItems.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmRankingSalesman.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.frmUserLogs.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.Resources.resources
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.vbproj.GenerateResource.Cache
+C:\Users\RICH\Documents\PROJECTS\SIMS\From Toping\SIMS\SIMS\SIMS\obj\Debug\SIMS.vbprojResolveAssemblyReference.cache
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSearchCustomerInvoice.resources
+D:\VB Projects\SIMS\SIMS\obj\Debug\SIMS.frmSearchSalesmanInvoice.resources
+D:\sims-project\SIMS\bin\Debug\SIMS.exe.config
+D:\sims-project\SIMS\obj\Debug\SIMS.exe
+D:\sims-project\SIMS\obj\Debug\SIMS.xml
+D:\sims-project\SIMS\obj\Debug\SIMS.pdb

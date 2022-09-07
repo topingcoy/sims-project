@@ -1,0 +1,106 @@
+note: update BO Return 12-27-2021
+
+Jan 4 2022 - sims 3 Agri
+
+allow change item code
+if delete item code allow re enter same item code
+entry decimal qty 
+invoice should retrieve even if zero amount
+
+======================================
+table to be trap delete item
+ivd = passed
+ivwh = passed
+phyivd = passed
+phyiva = passed
+rcvingd = passed
+salesd = passed
+salesh = passed
+
+table to be trap delete warehouse
+ivd = passed
+ivh = passed
+ivwh = passed
+phyivh = passed
+phyivd = passed
+phyiva = passed
+rcvingh = passed
+rcvingd = passed
+salesd = passed
+salesh = passed
+salesman = passed	 
+custsales = passed
+
+table to be trap delete supplier
+ivitem = passed
+
+table to be trap delete category
+ivitem 	= passed
+
+table to be trap delete province
+customers = passed
+
+table to be trap delete area
+customers = passed
+
+table to be trap delete outlet type
+customers = passed
+
+table to be trap delete type of operation
+custsales = passed
+
+table to be trap delete salesman
+custsales = passed
+salesh = passed
+expresh = passed
+expresd = passed
+collh = passed
+payh = passed
+
+
+March 13 2022 =============== for review update module
+
+Misc Stock In Update = qty should be added to ivwh (what happen is na minus ang qty)
+Receiving Update = qty should be added to ivwh (what happen is na minus ang qty)
+
+
+
+
+TO BE DONE =====
+
+Trap = All Transaction Number Should Start Like This
+	IVD, IVH
+	I0000000001 = Stock IN 		= passed 5-20-2022
+	O0000000001 = Stock OUT 	= passed 5-20-2022
+	T0000000001 = Stock TRANSFER 	= passed 5-20-2022
+	B0000000001 = Converted to BO	= TBD
+
+	SALESH, SALESD
+	S0000000001 = Sales Invoice 	= passed 5-20-2022
+	R0000000001 = Sales Return 	= passed 5-20-2022
+	B0000000001 = BO Return		= passed 5-20-2022
+
+Sept 3, 2022
+Physical Header Trap Cannot be deleted if updated		= TBD
+Physical Entry Detail Trap cannot be edited if already updated	= TBD
+Deleted Invoice,Return,BO (Invoice #) trap can be used again	= TBD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

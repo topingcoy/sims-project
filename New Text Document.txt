@@ -1,1 +1,50 @@
-new test napod karong lang jud
+SELECT h.*,d.*,w.whscode,s.slmcode FROM salesh h 
+LEFT JOIN salesd d ON h.whscode=d.whscode 
+LEFT JOIN warehouse w ON d.whscode=w.whscode 
+LEFT JOIN salesman s ON h.slsmancode=s.slmcode
+
+SELECT h.*,w.*,s.*,c.* FROM salesh h 
+LEFT JOIN warehouse w ON h.whscode=w.whscode 
+LEFT JOIN salesman s ON h.slsmancode=s.slmcode
+LEFT JOIN customers c ON h.custcode=c.custcode
+WHERE h.isdeleted<>1 ORDER BY transno desc
+
+sales
+itemcode=1
+description=2
+qty=3
+unit=4
+pckg=5
+uprice=6
+amount=7
+prevpk=8
+previtem=9
+prevwarehouse=10
+
+txtdisc1amt = gross * nupd1
+
+flat back color 44, 62, 80
+127, 140, 141
+
+
+===============
+Oct 24, 2021
+
+trap expressd (save) if two rows have the same amount
+trap is click select then no selected item on the check box
+
+
+note: for 3A Agrivit copy phyiv_a, phyiv_d, phyiv_h from orig sims
+
+for item delete:
+check record (sls, ivd, rcvingd)
+
+if false (means - no record) then
+delete from iv_itm where item='" & txtItemCode.Text & "'")
+delete from iv_wh where item='" & txtItemCode.Text & "'")
+
+note: change field itemcode to item "salesd"
+
+
+
+
